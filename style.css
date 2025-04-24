@@ -1,8 +1,13 @@
+*/
 html{
-    background-color: #F5F5F7;
     margin: 0;
     padding: 0;
+}
+.first-part{
+    background-color: #E8E8EC !important;
 }
 .sidebar{
     background-color: #E8E8EC !important;
 }
+
+
