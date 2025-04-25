@@ -50,4 +50,6 @@ html{
 .span{
     background-color: #F5F5F7 !important;
 }
-
+.ai{
+    background-image: url(/assets/images/robot.jpg) !important;
+}
